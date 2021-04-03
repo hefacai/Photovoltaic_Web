@@ -1,0 +1,27 @@
+enable : true
+heading : 背景
+headingSpan : 介绍
+serviceItem :
+  - icon : tf-globe
+    title : 能源危机
+    content : 我们目前生活的在一个耗能巨大的社会中，联合国经济和社会事务部估计，到2050年，世界上可能有近90亿人。更多的人意味着更多的能源消耗。
+    
+  - icon : tf-ion-laptop
+    title : 化石燃料
+    content : 化石燃料的产生不能足够快地取代我们使用的部分，因此在我们人类的时间尺度上，燃料将会被用光，然而它们是不可再生的。
+    
+  - icon : tf-genius
+    title : 能源储备
+    content : 我们通过这些不同的方式储存能源：1.化学能2.电能3.机械能4.热能。
+    
+  - icon : tf-dial
+    title : 碳捕获
+    content : 碳捕集与封存（CCS）通过在二氧化碳到达大气之前将其捕获并将其放置在其他地方的方式来尝试减少释放到大气中的二氧化碳量。 
+    
+  - icon : tf-target3
+    title : 清洁能源
+    content : 清洁能源是可以反复使用而不会耗尽的能源，目前，我们约有87％的能源来自燃烧化石燃料，而只有8％的能源来自可再生能源！
+    
+  - icon : tf-lifesaver
+    title : 光伏技术
+    content : 光伏技术的主要成果是“光伏电池”，我们通常称之为“太阳能电池”；它可以将太阳的光能转换成电池中的电能，即直流电。

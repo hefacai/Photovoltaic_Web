@@ -1,0 +1,78 @@
+baseURL = "https://yaozzzhao.github.io/moreseeds_mh/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "项目名称"
+theme = "meghna-hugo"
+summaryLength = 10
+publishDir = "docs"
+
+[taxonomies]
+  author = "admin"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+	
+	[[menu.nav]]
+    name = "背景介绍"
+    URL = "https://shop488970270.taobao.com"
+    weight = 1
+	
+    [[menu.nav]]
+    name = "关于我们"
+    URL = "about"
+    weight = 3
+
+    [[menu.nav]]
+    name = "实验指南"
+    URL = "blog"
+    weight = 2
+
+    [[menu.nav]]
+    name = "联系我们"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "主页"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "UA-143024487-1"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    #icon = "tf-ion-play"
+    heading = "项目名称"
+    content= "围绕“太阳能光伏技术”，设计一系列与“光”、“电”、“能量转换”、“可再生 能源”相关的适合中小学生及科学课堂的演示实验与动手实验
+。"
+    btn = true
+    btnText="了解更多"
+    btnURL="#blog"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "项目名称"
+    content = "本项目将提供包含详细实验指导的网页或说明书，便于中小学校引进作为实验套件，在更大的范围内推广。"
+    btnURL = "#contact-us"
+    btnText = "与我们联系"
+
+    # counter
+    [params.counter]
+    enable = false
+    bgImage = "images/backgrounds/bg-1.jpg"
+	
+    # footer
+    [params.footer]
+        copyright = "项目名称"
+        copyrightURL = "http://www.moreseeds.net"
+

@@ -1,0 +1,15 @@
+enable : true
+heading : 关于
+headingSpan : 我们
+aboutItem : 
+- icon : tf-tools
+  title : 四字词语
+  content : 写点吹牛逼的话
+
+- icon : tf-strategy
+  title : 四字词语
+  content : 写点吹牛逼的话
+
+- icon : tf-anchor2
+  title : 四字词语
+  content : 写点吹牛逼的话

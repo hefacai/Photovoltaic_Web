@@ -3,21 +3,19 @@ heading : 联系
 headingSpan : 我们
 title : 
 content : 
-enable_maps : true
+enable_maps : false
 mapLatitude : 30.512879
 mapLongitude: 114.419689
 contactDetails :
   - icon : tf-map-pin
     info : "湖北省武汉市洪山区珞喻路1037号"
-
-  - icon : tf-ion-ios-email-outline
-    info : "邮编:430074 "
-    
-  - icon : tf-ion-ios-email-outline
-    info : "邮件: zhangyedi@hust.edu.cn"
     
   - icon : tf-ion-iphone
-    info : "电话: 18010269586"
+    info : "xxx: 18010269582"
     
-
+  - icon : tf-ion-iphone
+    info : "xxx: 18010269586"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "邮编:430074 "
     

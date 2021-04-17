@@ -9,7 +9,7 @@ Grätzel电池
 
 ## 样板
 
-![image-20210220113444744](C:\Users\asus\Desktop\Photovoltaic_Box\Images\image-20210220113444744.png)
+![image-20210220113444744](5 Grätzel电池.assets/image-20210220113444744.png)
 
 ## 风险评估
 

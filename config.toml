@@ -1,7 +1,7 @@
 baseURL = "https://hefacai.github.io/Photovoltaic_Web/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "星火光能"
+title = "光电小盒子"
 theme = "meghna-hugo"
 summaryLength = 10
 publishDir = "docs"
@@ -51,7 +51,7 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
     #icon = "tf-ion-play"
-    heading = "星 火 光 能"
+    heading = "光电小盒子"
     content= "✨激发兴趣的光子。"
     btn = true
     btnText="了解更多"
@@ -60,7 +60,7 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "星火光能"
+    title = "光电小盒子"
     content = "本项目将提供包含详细实验指导的网页或说明书，便于中小学校引进作为实验套件，在更大的范围内推广。"
     btnURL = "#contact-us"
     btnText = "与我们联系"
@@ -72,6 +72,6 @@ custom_css = ["css/custom.css"]
 	
     # footer
     [params.footer]
-        copyright = "星火光能"
+        copyright = "光电小盒子"
         copyrightURL = "http://www.moreseeds.net"
 
